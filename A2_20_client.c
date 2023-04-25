@@ -5,10 +5,6 @@
  *  2020A7PS1712H Yash Vardhan Singh     
  *  2020A4PS2009H Nidhi Agarwal
  *  2020AAPS1779H Reuben George
- *  2019A8PS0560H Harsh Bohra
- *  2019B1A71147H Utkarsh Tiwari
- *  2020A4PS0990H Swastik Ranjan
- *  2020AAPS0309H Shreya Senapaty
  * 
  * *****************************************************/
 
