@@ -33,7 +33,7 @@ Please follow the instructions below to run the concurrent multi-client communic
 1. Compile the server and client files using a C compiler (e.g., gcc).
 
 2. Run the server executable to start the server:
-   ``bash ./server.o && ./client.o``
+   ``./server.o && ./client.o``
 3. Follow the menu driven instruction to request an operation from the server. Run multiple instances of clients with new names for concurrent connections.
 
 ## Contributions
